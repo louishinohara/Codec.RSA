@@ -1,5 +1,4 @@
 # RSA Encryption/Decryption Program
-# https://rosettacode.org/wiki/RSA_code#Python
 
 import random
 
